@@ -1,7 +1,7 @@
 # Ascadia Travel Agency
 
 Get access with this link : 
-https://bayufadayan.github.io/ascadia-travel-agency/
+https://bayufadayan.github.io/ascadia-travel-landing-page/
 or
 https://revou-fundamental-course.github.io/29-apr-24-bayufadayan/
 
@@ -24,7 +24,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/bayufadayan/ascadia-travel-agency/
+   git clone https://github.com/bayufadayan/ascadia-travel-landing-page
 
 2. Open index.html in your browser to view the website.
 
